@@ -1,0 +1,79 @@
+{
+  "DrawableInfo": {
+    "global": [],
+    "osu": [
+      {
+        "Type": "osu.Game.Screens.Play.HUD.DefaultHealthDisplay, osu.Game, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": -55.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 2.0
+        },
+        "Anchor": 17,
+        "Origin": 17,
+        "UsesFixedAnchor": true,
+        "Settings": {},
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.HUD.DefaultComboCounter, osu.Game,  Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 4.0,
+          "y": 9.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.15,
+          "y": 1.15
+        },
+        "Anchor": 9,
+        "Origin": 9,
+        "UsesFixedAnchor": true,
+        "Settings": {},
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.HUD.DefaultAccuracyCounter, osu.Game,  Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -4.0,
+          "y": 9.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.15,
+          "y": 1.15
+        },
+        "Anchor": 33,
+        "Origin": 33,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "accuracy_display": 0
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.HUD.ArgonSongProgress, osu.Game,  Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 3.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 0.75
+        },
+        "Anchor": 20,
+        "Origin": 20,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "show_graph": false
+        },
+        "Children": []
+      }
+    ]
+  }
+}

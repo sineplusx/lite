@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg135"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16, custom)"
+   sodipodi:docname="numeral-8.svg"
+   inkscape:export-filename="8.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="5.8511223"
+     inkscape:cx="21.363423"
+     inkscape:cy="47.512252"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs132">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4132"
+       x="-0.13633136"
+       y="-0.094523078"
+       width="1.2726627"
+       height="1.1890462">
+      <feFlood
+         flood-opacity="0.80401529636711278"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4122" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4124" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4126" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4128" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4130" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-weight:bold;font-size:104px;line-height:1;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold,  Bold';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#ffffff;stroke-width:0;filter:url(#filter4132)"
+       d="m 24.082031,29.363281 q 0,-5.078125 2.742188,-9.546875 2.792968,-4.519531 8.125,-7.210937 5.382812,-2.6914065 12.542968,-2.6914065 6.042969,0 10.613282,1.5742185 4.570312,1.574219 7.617187,4.367188 3.046875,2.742187 4.519531,6.246093 1.472657,3.453125 1.472657,7.363282 0,4.976562 -2.589844,8.886718 -2.539063,3.910157 -7.617188,6.398438 4.316407,1.675781 7.160157,4.417969 2.84375,2.691406 4.265625,6.296875 1.472656,3.554687 1.472656,7.921875 0,6.398437 -3.097656,11.628906 -3.097657,5.179687 -9.089844,8.125 -5.992188,2.945312 -14.117188,2.945312 -8.429687,0 -14.421875,-2.945312 Q 27.6875,80.195312 24.640625,75.066406 21.59375,69.886719 21.59375,63.488281 21.59375,49.828125 34.492187,44.75 24.082031,39.875 24.082031,29.363281 Z m 36.410156,33.617188 q 0,-3.960938 -1.625,-6.90625 -1.625,-2.945313 -4.570312,-4.519532 -2.945313,-1.574218 -6.601563,-1.574218 -5.179687,0 -8.683593,3.453125 -3.503907,3.453125 -3.503907,9.648437 0,3.960938 1.625,7.007813 1.675782,2.996093 4.519532,4.671875 2.84375,1.625 6.347656,1.625 3.554687,0 6.398437,-1.675782 2.84375,-1.675781 4.46875,-4.722656 1.625,-3.046875 1.625,-7.007812 z M 47.796875,19.613281 q -4.773438,0 -7.71875,2.996094 -2.894531,2.945312 -2.894531,7.617187 0,4.316407 2.996093,7.210938 2.996094,2.84375 7.71875,2.84375 2.386719,0 4.316407,-0.761719 1.980468,-0.761719 3.351562,-2.082031 1.421875,-1.371094 2.183594,-3.199219 0.761719,-1.878906 0.761719,-4.113281 0,-2.996094 -1.371094,-5.382813 -1.320313,-2.386718 -3.757813,-3.757812 -2.4375,-1.371094 -5.585937,-1.371094 z"
+       id="text334"
+       aria-label="8" />
+  </g>
+</svg>
